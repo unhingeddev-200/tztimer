@@ -1,6 +1,6 @@
 package main
 
-import "tztimer/cmd"
+import "github.com/unhingeddev-200/tztimer/cmd"
 
 func main() {
 	cmd.Execute()

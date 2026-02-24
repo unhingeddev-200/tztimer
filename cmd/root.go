@@ -9,11 +9,10 @@ import (
 	"syscall"
 	"time"
 
-	"tztimer/dbus"
-	"tztimer/timer"
-
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
+	"github.com/unhingeddev-200/tztimer/dbus"
+	"github.com/unhingeddev-200/tztimer/timer"
 )
 
 var (

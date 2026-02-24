@@ -4,9 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"tztimer/dbus"
-
 	"github.com/sirupsen/logrus"
+	"github.com/unhingeddev-200/tztimer/dbus"
 )
 
 type Timer struct {

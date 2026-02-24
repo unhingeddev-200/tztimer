@@ -1,4 +1,4 @@
-module tztimer
+module github.com/unhingeddev-200/tztimer
 
 go 1.25.5
 
